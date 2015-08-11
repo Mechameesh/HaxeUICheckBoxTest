@@ -1,0 +1,9 @@
+<vbox width="100%" height="100%">
+	<hbox width="100%">
+		<text width="40%" text="Some Text" />
+		<text width="20%" text="Some CheckBox" />
+		<text text="Some Disabled CheckBox" />
+	</hbox>
+	<listview width="100%" height="80%" id="testList" />	
+	<text width="100%" id="output" />
+</vbox>
